@@ -39,9 +39,7 @@ clone project
 ```
 git clone https://github.com/aridsm/tasks-app.git
 ```
-go to projet
-```
-cd tasks-app
+
 ```
 install npm
 ```
@@ -51,9 +49,4 @@ start project
 ```
 npm start
 ```
-
-## Comments
-
-- Tasks, directories and darkmode data are saved in your browser's localStorage. You can click "delete all data" button to remove them from localStorage.
-- For demonstration purposes, the application has a default list of 3 tasks and 1 directory called "Main".
 
